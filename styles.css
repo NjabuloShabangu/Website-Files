@@ -88,6 +88,17 @@ nav a:hover {
     margin: 10px 20px !important;
 }
 
+.edit-image {
+    width: 30px !important;
+    height: 30px !important;
+}
+
+.edit-icon {
+    position: absolute !important;
+    bottom: 25px !important;
+    right: 75px !important;
+}
+
 .save-icon {
     position: absolute !important;
     bottom: 25px !important;
